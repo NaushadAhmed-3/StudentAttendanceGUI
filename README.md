@@ -1,4 +1,3 @@
-# StudentAttendanceGUI
 # Student Attendance Management System (Qt GUI)
 
 A desktop-based management system built with **C++** and the **Qt Framework**. This project demonstrates the integration of a custom backend logic (using 2D arrays) with a modern Graphical User Interface.
